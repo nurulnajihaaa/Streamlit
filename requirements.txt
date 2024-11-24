@@ -1,4 +1,5 @@
 numpy
+cv2
 pillow
 streamlit
 streamlit_drawable_canvas
