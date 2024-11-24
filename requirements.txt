@@ -1,0 +1,6 @@
+numpy
+pillow
+streamlit
+streamlit_drawable_canvas
+opencv-python-headless
+opencv-contrib-python
